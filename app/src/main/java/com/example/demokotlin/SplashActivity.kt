@@ -10,12 +10,13 @@ class SplashActivity : AppCompatActivity() {
 
     // This is the loading time of the splash screen
     // New changes from git side
+    //New changes form myside
     private val SPLASH_TIME_OUT:Long = 3000 // 1 sec
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        //New changes from myside
         Handler().postDelayed({
             startActivity(Intent(this , LoginActivity::class.java))
             finish()
