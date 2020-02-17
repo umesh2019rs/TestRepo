@@ -20,7 +20,7 @@ class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        //New changes from myside
         Handler().postDelayed({
             startActivity(Intent(this , LoginActivity::class.java))
             finish()
