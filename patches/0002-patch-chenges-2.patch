@@ -1,0 +1,25 @@
+From dd7903cd122e54ded9940934eadce257f15af659 Mon Sep 17 00:00:00 2001
+From: Umesh BR <umesh.br@robosoftin.com>
+Date: Mon, 17 Feb 2020 15:51:31 +0530
+Subject: [PATCH 2/3] patch chenges 2
+
+---
+ app/src/main/java/com/example/demokotlin/SplashActivity.kt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/app/src/main/java/com/example/demokotlin/SplashActivity.kt b/app/src/main/java/com/example/demokotlin/SplashActivity.kt
+index 696ecb8..900576c 100644
+--- a/app/src/main/java/com/example/demokotlin/SplashActivity.kt
++++ b/app/src/main/java/com/example/demokotlin/SplashActivity.kt
+@@ -12,7 +12,7 @@ class SplashActivity : AppCompatActivity() {
+     // New changes from git side
+     // New changes from git 2
+     // New changes form myside
+-    // check new branch
++    // check new branch 2
+     private val SPLASH_TIME_OUT:Long = 3000 // 1 sec
+ 
+     override fun onCreate(savedInstanceState: Bundle?) {
+-- 
+2.9.0.windows.1
+
