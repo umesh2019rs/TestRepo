@@ -10,6 +10,7 @@ class SplashActivity : AppCompatActivity() {
 
     // This is the loading time of the splash screen
     // New changes from git side
+    // New changes from git 2
     private val SPLASH_TIME_OUT:Long = 3000 // 1 sec
 
     override fun onCreate(savedInstanceState: Bundle?) {
