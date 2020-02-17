@@ -12,7 +12,8 @@ class SplashActivity : AppCompatActivity() {
     // New changes from git side
     // New changes from git 2
     // New changes form myside
-    // check new branch 2
+    // check new bragit nch 2
+    // check patch 2
     private val SPLASH_TIME_OUT:Long = 3000 // 1 sec
 
     override fun onCreate(savedInstanceState: Bundle?) {
