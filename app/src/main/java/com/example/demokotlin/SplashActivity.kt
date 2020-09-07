@@ -15,7 +15,7 @@ class SplashActivity : AppCompatActivity() {
     // check new bragit nch 2
     // check patch 2
     // delete patch
-    //Test Umesh
+    //Added new branch
     private val SPLASH_TIME_OUT:Long = 3000 // 1 sec
 
     override fun onCreate(savedInstanceState: Bundle?) {
