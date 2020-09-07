@@ -17,6 +17,7 @@ class SplashActivity : AppCompatActivity() {
     // delete patch
     //Test Umesh
     //Send only changed files
+    //changed
     private val SPLASH_TIME_OUT:Long = 3000 // 1 sec
 
     override fun onCreate(savedInstanceState: Bundle?) {
