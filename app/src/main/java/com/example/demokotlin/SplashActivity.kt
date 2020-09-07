@@ -18,6 +18,7 @@ class SplashActivity : AppCompatActivity() {
     //Test Umesh
     //Created develop branch
     //Commited remotely
+    //Changes here
     private val SPLASH_TIME_OUT:Long = 3000 // 1 sec
 
     override fun onCreate(savedInstanceState: Bundle?) {
