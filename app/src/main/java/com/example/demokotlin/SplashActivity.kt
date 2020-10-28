@@ -12,6 +12,7 @@ class SplashActivity : AppCompatActivity() {
     //Added comment in master 2
     //Added cooment in master 1
     //Added comment in master
+    //Added comment in feature_1
     private val SPLASH_TIME_OUT:Long = 3000
 
     override fun onCreate(savedInstanceState: Bundle?) {
