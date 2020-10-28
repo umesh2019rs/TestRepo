@@ -9,6 +9,7 @@ import com.example.demokotlin.Activities.ui.login.LoginActivity
 class SplashActivity : AppCompatActivity() {
 
 
+    //Added comment in master
     private val SPLASH_TIME_OUT:Long = 3000
 
     override fun onCreate(savedInstanceState: Bundle?) {
