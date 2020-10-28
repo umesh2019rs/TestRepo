@@ -9,6 +9,7 @@ import com.example.demokotlin.Activities.ui.login.LoginActivity
 class SplashActivity : AppCompatActivity() {
 
 
+    //Added cooment in master 1
     //Added comment in master
     private val SPLASH_TIME_OUT:Long = 3000
 
